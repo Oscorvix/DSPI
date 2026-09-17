@@ -1,0 +1,25 @@
+4
+
+1: 
+Website: 145.107.171.217
+Command prompt: 145.107.171.217
+They're identical.
+
+2:
+Website: 145.107.171.217
+Command prompt: 145.107.171.217
+It didn't change because only university-related traffic goes through the VPN.
+
+3:
+My IP address is public because it isn't in any of the ranges for private IP addresses.
+The same goes for the gateway 145.107.168.1.
+
+4:
+Leiden, Netherlands.
+
+5:
+The first hub is 172.23.5.10, the last hub is 142.250.180.3.
+I notice that they're different and the first one is private, which the second isn't.
+
+6:
+Lelystad, Netherlands.

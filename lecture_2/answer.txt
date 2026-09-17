@@ -1,0 +1,29 @@
+6.2
+
+77 6F 72 6C 64
+
+0x00001840
+
+0x0000003E
+
+0x00000036
+
+6.3
+
+When I run the file I get a blue pop-up with the following message: "This app can't run on your PC."
+The bytes before the change:0x68, 0x65, 0x6C, 0x6C, 0x6F, 0x20, 0x77, 0x6F, 0x72, 0x6C, 0x64, 0x21
+After the change: 0x68, 0x65, 0x6C, 0x6C, 0x6F, 0x20, 0x77, 0x6F, 0x72, 0x6C, 0x64, 0x21
+So the bytes inside the file stay the same.
+
+When trying to save the made changes, you are forced to create a file with a new name. Attempting to replace the old file results in a pop-up telling you the file is in read only and that the changes need to be saved under a new filename.
+
+7
+
+1. 1
+
+2. SanDisk PC SN5100S SDFPMSM-1T00-1101, 1024 GB, 7,130 MB/s read speed, 6,440 MB/s write speed.
+
+3. 4 partitions, 450 MB System, 16 MB Reserved, 951.46 GB Basic, 1.95 GB Recovery.
+
+8
+

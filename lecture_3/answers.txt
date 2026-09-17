@@ -1,0 +1,22 @@
+4
+
+1: AMD Ryzen 7 250 w/ Radeon 780M Graphics (3.30 GHz) 8 cores
+
+2: DDR5 Micron Technology MTC8C1084S1SC56BH1 K 5600 MHz 16 GB
+
+3: NVIDIA GeForce RTX 5050 Laptop GPU, 4 GB VRAM
+
+4: TBCN19WW, last updated January 13th 2026
+
+5
+
+Boot order:
+1: Windows Boot Manager (Sandisk PC SN5100S SDFPMSM-1T00-1101)
+2: EFI PXE Network (04-55-B2-1F-12-B0)
+
+6
+
+1920x1080
+On portrait mode the screen flips 90 degrees to the left
+You can use portrait mode when working with something that doesn't fit on the screen on landscape
+On 800x600 the screen becomes lower resolution, meaning everything becomes larger and less sharp

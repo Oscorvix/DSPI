@@ -1,0 +1,12 @@
+5:
+
+195 drivers.
+The wifi driver is named mtkwl6ex.sys, located in C:\Windows\System32\drivers\
+The network driver is named rt68cx21x64.sys, also located in C:\Windows\System32\drivers\
+
+6:
+
+1016.8 MB RAM used.
+0% CPU used.
+
+C:\Program Files\BraveSoftware\Brave-Browser\Application
